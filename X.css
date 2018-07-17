@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300');
+@import url('https://fonts.googleapis.com/css?family=Kaushan+Script');
+
+.judul {
+    background-image: url("Bg atas.jpg");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.transparan1{background: rgba(149, 56, 255, 0.5)}
+.transparan2{background: rgba(255, 82, 232, 0.5)}
+
+.RH {
+    color: rgb(190, 0, 190);
+    font-family: 'Kaushan Script', cursive;
+    font-size: 100px;
+}
+
+.RHa {
+    color: rgb(190, 0, 190);
+    font-family: 'Kaushan Script', cursive;
+    font-size: 35px;
+}
+
+.RHH {
+    color: rgb(190, 0, 190);
+    font-family: 'Open Sans Condensed', cursive;
+    font-size: 40px;
+}
+
+.RHHH {
+    color: rgb(255, 255, 255);
+    font-family: 'Open Sans Condensed', cursive;
+    font-size: 40px;
+}
+body {
+    
+}
